@@ -1,7 +1,13 @@
 import React, { useContext, useState } from "react"
 import axios from 'axios'
 
+<<<<<<< HEAD
 const BASE_URL = "https://spendwise-upar.onrender.com/api/v1/"
+=======
+
+const BASE_URL = "https://spendwise-upar.onrender.com/api/v1";
+
+>>>>>>> b69167be2c38e69e870895e348389a507037daf0
 
 const GlobalContext = React.createContext()
 
